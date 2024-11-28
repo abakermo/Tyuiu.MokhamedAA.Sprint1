@@ -14,7 +14,7 @@ namespace Tyuiu.MokhamedAA.Sprint1.Task4.V26
             double y = Convert.ToDouble(Console.ReadLine());
          
 
-            Console.WriteLine("-0.062");
+            Console.WriteLine(ds.Calculate(x, y));
             Console.ReadLine();
 
         }
