@@ -15,6 +15,7 @@ namespace Tyuiu.MokhamedAA.Sprint1.Task4.V26
          
 
             Console.WriteLine("-0.062");
+            Console.ReadLine();
 
         }
     }
