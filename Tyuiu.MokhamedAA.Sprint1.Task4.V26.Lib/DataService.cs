@@ -5,8 +5,8 @@ namespace Tyuiu.MokhamedAA.Sprint1.Task4.V26.Lib
     {
         public double Calculate(double x, double y)
         {
-            double z = 0;
-            return (Math.Round((Math.Atan(x) + y) / (Math.Exp(y + z)), 3));
+            
+            return (Math.Round((Math.Atan(x) + y) / (Math.Exp(y + x)), 3));
         }
     }
 }

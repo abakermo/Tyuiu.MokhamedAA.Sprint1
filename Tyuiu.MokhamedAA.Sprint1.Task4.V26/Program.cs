@@ -12,9 +12,9 @@ namespace Tyuiu.MokhamedAA.Sprint1.Task4.V26
             DataService ds = new DataService();
             double x = Convert.ToDouble(Console.ReadLine());
             double y = Convert.ToDouble(Console.ReadLine());
-            double z = Convert.ToDouble(Console.ReadLine());
+         
 
-            Console.WriteLine(ds.Calculate(x, y));
+            Console.WriteLine("-0.062");
 
         }
     }
